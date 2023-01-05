@@ -1,3 +1,5 @@
+# Collins Wanga
+
 def main():
     n = eval(input('Input the number of days (28-31): '))
     d = eval(input('Input the starting day(0 = Sun, 1 = Mon,...): '))
